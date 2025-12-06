@@ -39,7 +39,7 @@ The project keeps API keys outside the codebase using `appsettings.json` and han
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/WeatherApp.git
+git clone https://github.com/Enes-Turan/WeatherApp.git
 cd WeatherApp
 2. Create appsettings.json
 Create this file in the project root (same folder as Program.cs):
